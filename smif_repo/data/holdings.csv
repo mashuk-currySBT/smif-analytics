@@ -1,0 +1,247 @@
+etf,ticker,name,sector,weight_in_etf_pct,source,as_of
+IBB,REST,Rest of holdings (not listed),,59.78,calculated: 100 - listed,
+IBB,GILD,Gilead Sciences Inc,Healthcare,8.9,morningstar_stock_intersection,
+IBB,AMGN,Amgen Inc,Healthcare,8.36,morningstar_stock_intersection,
+IBB,VRTX,Vertex Pharmaceuticals Inc,Healthcare,7.84,morningstar_stock_intersection,
+IBB,MRNA,Moderna Inc,Healthcare,6.41,morningstar_stock_intersection,
+IBB,REGN,Regeneron Pharmaceuticals Inc,Healthcare,6.19,morningstar_stock_intersection,
+IBB,BIIB,Biogen Inc,Healthcare,2.52,morningstar_stock_intersection,
+IJH,REST,Rest of holdings (not listed),,96.46,calculated: 100 - listed,2026-11-06
+IJH,FTI,TechnipFMC PLC,Energy,0.74,fund_page_top5,2026-11-06
+IJH,UTHR,United Therapeutics Corp,Healthcare,0.72,fund_page_top5,2026-11-06
+IJH,ATI,ATI Inc,Industrials,0.71,fund_page_top5,2026-11-06
+IJH,USFD,US Foods Holding Corp,Consumer Defensive,0.69,fund_page_top5,2026-11-06
+IJH,THC,Tenet Healthcare Corp,Healthcare,0.68,fund_page_top5,2026-11-06
+IYG,REST,Rest of holdings (not listed),,38.18,calculated: 100 - listed,
+IYG,BRK.B,Berkshire Hathaway Inc Class B,Financial Services,14.79,morningstar_stock_intersection,
+IYG,JPM,JPMorgan Chase & Co,Financial Services,12.37,morningstar_stock_intersection,
+IYG,V,Visa Inc Class A,Financial Services,10.02,morningstar_stock_intersection,
+IYG,MA,Mastercard Inc Class A,Financial Services,7.34,morningstar_stock_intersection,
+IYG,BAC,Bank of America Corp,Financial Services,4.47,morningstar_stock_intersection,
+IYG,WFC,Wells Fargo & Co,Financial Services,3.53,morningstar_stock_intersection,
+IYG,GS,The Goldman Sachs Group Inc,Financial Services,3.51,morningstar_stock_intersection,
+IYG,MS,Morgan Stanley,Financial Services,3.01,morningstar_stock_intersection,
+IYG,C,Citigroup Inc,Financial Services,2.78,morningstar_stock_intersection,
+PAVE,REST,Rest of holdings (not listed),,49.17,calculated: 100 - listed,2026-11-06
+PAVE,FAST,Fastenal Co,Industrials,3.93,morningstar_stock_intersection,2026-11-06
+PAVE,EMR,Emerson Electric Co,Industrials,3.85,morningstar_stock_intersection,2026-11-06
+PAVE,DE,Deere & Co,Industrials,3.73,morningstar_stock_intersection,2026-11-06
+PAVE,NUE,Nucor Corp,Basic Materials,3.49,morningstar_stock_intersection,2026-11-06
+PAVE,UNP,Union Pacific Corp,Industrials,3.36,morningstar_stock_intersection,2026-11-06
+PAVE,CRH,CRH PLC,Basic Materials,3.34,morningstar_stock_intersection,2026-11-06
+PAVE,CSX,CSX Corp,Industrials,3.3,morningstar_stock_intersection,2026-11-06
+PAVE,NSC,Norfolk Southern Corp,Industrials,3.24,morningstar_stock_intersection,2026-11-06
+PAVE,URI,United Rentals Inc,Industrials,3.14,morningstar_stock_intersection,2026-11-06
+PAVE,PH,Parker Hannifin Corp,Industrials,3.1,morningstar_stock_intersection,2026-11-06
+PAVE,SRE,Sempra,Utilities,2.93,morningstar_stock_intersection,2026-11-06
+PAVE,ROK,Rockwell Automation Inc,Industrials,2.84,morningstar_stock_intersection,2026-11-06
+PAVE,TT,Trane Technologies PLC Class A,Industrials,2.81,morningstar_stock_intersection,2026-11-06
+PAVE,ETN,Eaton Corp PLC,Industrials,2.7,morningstar_stock_intersection,2026-11-06
+PAVE,PWR,Quanta Services Inc,Industrials,2.67,morningstar_stock_intersection,2026-11-06
+PAVE,HWM,Howmet Aerospace Inc,Industrials,2.4,morningstar_stock_intersection,2026-11-06
+SMH,NVDA,NVIDIA Corp,Technology,20.75,morningstar_stock_intersection,2026-11-07
+SMH,REST,Rest of holdings (not listed),,10.03,calculated: 100 - listed,2026-11-07
+SMH,TSM,Taiwan Semiconductor Manufacturing Co Ltd ADR,Technology,9.97,morningstar_stock_intersection,2026-11-07
+SMH,TXN,Texas Instruments Inc,Technology,5.92,morningstar_stock_intersection,2026-11-07
+SMH,AVGO,Broadcom Inc,Technology,5.7,morningstar_stock_intersection,2026-11-07
+SMH,AMD,Advanced Micro Devices Inc,Technology,5.36,morningstar_stock_intersection,2026-11-07
+SMH,ADI,Analog Devices Inc,Technology,4.87,morningstar_stock_intersection,2026-11-07
+SMH,ASML,ASML Holding NV ADR,Technology,4.61,morningstar_stock_intersection,2026-11-07
+SMH,QCOM,Qualcomm Inc,Technology,4.38,morningstar_stock_intersection,2026-11-07
+SMH,KLAC,KLA Corp,Technology,4.23,morningstar_stock_intersection,2026-11-07
+SMH,MU,Micron Technology Inc,Technology,4.17,morningstar_stock_intersection,2026-11-07
+SMH,SKHY,SK hynix Inc ADR,Technology,3.99,morningstar_stock_intersection,2026-11-07
+SMH,AMAT,Applied Materials Inc,Technology,3.96,morningstar_stock_intersection,2026-11-07
+SMH,LRCX,Lam Research Corp,Technology,3.54,morningstar_stock_intersection,2026-11-07
+SMH,MRVL,Marvell Technology Inc,Technology,3.13,morningstar_stock_intersection,2026-11-07
+SMH,INTC,Intel Corp,Technology,2.96,morningstar_stock_intersection,2026-11-07
+SMH,CDNS,Cadence Design Systems Inc,Technology,2.43,morningstar_stock_intersection,2026-11-07
+VCR,REST,Rest of holdings (not listed),,51.57,calculated: 100 - listed,
+VCR,AMZN,Amazon.com Inc,Consumer Cyclical,22.99,morningstar_stock_intersection,
+VCR,TSLA,Tesla Inc,Consumer Cyclical,15.91,morningstar_stock_intersection,
+VCR,HD,The Home Depot Inc,Consumer Cyclical,4.52,morningstar_stock_intersection,
+VCR,MCD,McDonald's Corp,Consumer Cyclical,2.64,fund_page_top5,
+VCR,TJX,TJX Companies Inc,Consumer Cyclical,2.37,fund_page_top5,
+VGT,REST,Rest of holdings (not listed),,33.31,calculated: 100 - listed,2026-09-30
+VGT,NVDA,NVIDIA Corp,Technology,17.59,morningstar_stock_intersection,2026-09-30
+VGT,AAPL,Apple Inc,Technology,15.91,morningstar_stock_intersection,2026-09-30
+VGT,MSFT,Microsoft Corp,Technology,11.16,morningstar_stock_intersection,2026-09-30
+VGT,MU,Micron Technology Inc,Technology,4.45,morningstar_stock_intersection,2026-09-30
+VGT,AVGO,Broadcom Inc,Technology,4.11,morningstar_stock_intersection,2026-09-30
+VGT,AMD,Advanced Micro Devices Inc,Technology,3.68,morningstar_stock_intersection,2026-09-30
+VGT,INTC,Intel Corp,Technology,1.98,morningstar_stock_intersection,2026-09-30
+VGT,LRCX,Lam Research Corp,Technology,1.55,morningstar_stock_intersection,2026-09-30
+VGT,AMAT,Applied Materials Inc,Technology,1.53,morningstar_stock_intersection,2026-09-30
+VGT,KLAC,KLA Corp,Technology,0.98,morningstar_stock_intersection,2026-09-30
+VGT,TXN,Texas Instruments Inc,Technology,0.98,morningstar_stock_intersection,2026-09-30
+VGT,MRVL,Marvell Technology Inc,Technology,0.88,morningstar_stock_intersection,2026-09-30
+VGT,QCOM,Qualcomm Inc,Technology,0.76,morningstar_stock_intersection,2026-09-30
+VGT,ADI,Analog Devices Inc,Technology,0.75,morningstar_stock_intersection,2026-09-30
+VGT,CDNS,Cadence Design Systems Inc,Technology,0.38,morningstar_stock_intersection,2026-09-30
+VHT,REST,Rest of holdings (not listed),,48.62,calculated: 100 - listed,2026-09-30
+VHT,LLY,Eli Lilly and Co,Healthcare,12.93,morningstar_stock_intersection,2026-09-30
+VHT,JNJ,Johnson & Johnson,Healthcare,8.77,morningstar_stock_intersection,2026-09-30
+VHT,ABBV,AbbVie Inc,Healthcare,6.45,morningstar_stock_intersection,2026-09-30
+VHT,MRK,Merck & Co Inc,Healthcare,5.01,morningstar_stock_intersection,2026-09-30
+VHT,UNH,UnitedHealth Group Inc,Healthcare,4.65,morningstar_stock_intersection,2026-09-30
+VHT,TMO,Thermo Fisher Scientific Inc,Healthcare,3.5,morningstar_stock_intersection,2026-09-30
+VHT,AMGN,Amgen Inc,Healthcare,3.17,morningstar_stock_intersection,2026-09-30
+VHT,GILD,Gilead Sciences Inc,Healthcare,2.58,morningstar_stock_intersection,2026-09-30
+VHT,VRTX,Vertex Pharmaceuticals Inc,Healthcare,1.85,morningstar_stock_intersection,2026-09-30
+VHT,REGN,Regeneron Pharmaceuticals Inc,Healthcare,1.09,morningstar_stock_intersection,2026-09-30
+VHT,MRNA,Moderna Inc,Healthcare,0.91,morningstar_stock_intersection,2026-09-30
+VHT,BIIB,Biogen Inc,Healthcare,0.47,morningstar_stock_intersection,2026-09-30
+VOO,REST,Rest of holdings (not listed),,36.02,calculated: 100 - listed,2026-09-30
+VOO,NVDA,NVIDIA Corp,Technology,8.39,morningstar_stock_intersection,2026-09-30
+VOO,AAPL,Apple Inc,Technology,7.38,morningstar_stock_intersection,2026-09-30
+VOO,MSFT,Microsoft Corp,Technology,5.78,morningstar_stock_intersection,2026-09-30
+VOO,AMZN,Amazon.com Inc,Consumer Cyclical,3.71,morningstar_stock_intersection,2026-09-30
+VOO,GOOGL,Alphabet Inc Class A,Communication Services,3.07,morningstar_stock_intersection,2026-09-30
+VOO,AVGO,Broadcom Inc,Technology,2.54,morningstar_stock_intersection,2026-09-30
+VOO,MU,Micron Technology Inc,Technology,1.83,morningstar_stock_intersection,2026-09-30
+VOO,TSLA,Tesla Inc,Consumer Cyclical,1.52,morningstar_stock_intersection,2026-09-30
+VOO,AMD,Advanced Micro Devices Inc,Technology,1.52,morningstar_stock_intersection,2026-09-30
+VOO,BRK.B,Berkshire Hathaway Inc Class B,Financial Services,1.41,morningstar_stock_intersection,2026-09-30
+VOO,LLY,Eli Lilly and Co,Healthcare,1.41,morningstar_stock_intersection,2026-09-30
+VOO,JPM,JPMorgan Chase & Co,Financial Services,1.33,morningstar_stock_intersection,2026-09-30
+VOO,XOM,ExxonMobil Holdings Corp,Energy,1.02,morningstar_stock_intersection,2026-09-30
+VOO,JNJ,Johnson & Johnson,Healthcare,0.97,morningstar_stock_intersection,2026-09-30
+VOO,V,Visa Inc Class A,Financial Services,0.91,morningstar_stock_intersection,2026-09-30
+VOO,INTC,Intel Corp,Technology,0.91,morningstar_stock_intersection,2026-09-30
+VOO,WMT,Walmart Inc,Consumer Defensive,0.7,morningstar_stock_intersection,2026-09-30
+VOO,ABBV,AbbVie Inc,Healthcare,0.7,morningstar_stock_intersection,2026-09-30
+VOO,MA,Mastercard Inc Class A,Financial Services,0.68,morningstar_stock_intersection,2026-09-30
+VOO,LRCX,Lam Research Corp,Technology,0.62,morningstar_stock_intersection,2026-09-30
+VOO,AMAT,Applied Materials Inc,Technology,0.62,morningstar_stock_intersection,2026-09-30
+VOO,CVX,Chevron Corp,Energy,0.61,morningstar_stock_intersection,2026-09-30
+VOO,COST,Costco Wholesale Corp,Consumer Defensive,0.61,morningstar_stock_intersection,2026-09-30
+VOO,CAT,Caterpillar Inc,Industrials,0.57,morningstar_stock_intersection,2026-09-30
+VOO,MRK,Merck & Co Inc,Healthcare,0.54,morningstar_stock_intersection,2026-09-30
+VOO,BAC,Bank of America Corp,Financial Services,0.54,morningstar_stock_intersection,2026-09-30
+VOO,PG,Procter & Gamble Co,Consumer Defensive,0.51,morningstar_stock_intersection,2026-09-30
+VOO,KO,Coca-Cola Co,Consumer Defensive,0.51,morningstar_stock_intersection,2026-09-30
+VOO,UNH,UnitedHealth Group Inc,Healthcare,0.5,morningstar_stock_intersection,2026-09-30
+VOO,GE,GE Aerospace,Industrials,0.49,morningstar_stock_intersection,2026-09-30
+VOO,PM,Philip Morris International Inc,Consumer Defensive,0.45,morningstar_stock_intersection,2026-09-30
+VOO,HD,The Home Depot Inc,Consumer Cyclical,0.43,morningstar_stock_intersection,2026-09-30
+VOO,TXN,Texas Instruments Inc,Technology,0.39,morningstar_stock_intersection,2026-09-30
+VOO,KLAC,KLA Corp,Technology,0.39,morningstar_stock_intersection,2026-09-30
+VOO,GEV,GE Vernova Inc,Industrials,0.38,morningstar_stock_intersection,2026-09-30
+VOO,RTX,RTX Corp,Industrials,0.38,morningstar_stock_intersection,2026-09-30
+VOO,TMO,Thermo Fisher Scientific Inc,Healthcare,0.38,morningstar_stock_intersection,2026-09-30
+VOO,GS,The Goldman Sachs Group Inc,Financial Services,0.37,morningstar_stock_intersection,2026-09-30
+VOO,WFC,Wells Fargo & Co,Financial Services,0.37,morningstar_stock_intersection,2026-09-30
+VOO,MRVL,Marvell Technology Inc,Technology,0.35,morningstar_stock_intersection,2026-09-30
+VOO,AMGN,Amgen Inc,Healthcare,0.35,morningstar_stock_intersection,2026-09-30
+VOO,MS,Morgan Stanley,Financial Services,0.34,morningstar_stock_intersection,2026-09-30
+VOO,C,Citigroup Inc,Financial Services,0.32,morningstar_stock_intersection,2026-09-30
+VOO,QCOM,Qualcomm Inc,Technology,0.3,morningstar_stock_intersection,2026-09-30
+VOO,ADI,Analog Devices Inc,Technology,0.29,morningstar_stock_intersection,2026-09-30
+VOO,GILD,Gilead Sciences Inc,Healthcare,0.28,morningstar_stock_intersection,2026-09-30
+VOO,PEP,PepsiCo Inc,Consumer Defensive,0.26,morningstar_stock_intersection,2026-09-30
+VOO,DE,Deere & Co,Industrials,0.26,morningstar_stock_intersection,2026-09-30
+VOO,ETN,Eaton Corp PLC,Industrials,0.25,morningstar_stock_intersection,2026-09-30
+VOO,UNP,Union Pacific Corp,Industrials,0.25,morningstar_stock_intersection,2026-09-30
+VOO,NEE,NextEra Energy Inc,Utilities,0.24,morningstar_stock_intersection,2026-09-30
+VOO,COP,ConocoPhillips,Energy,0.23,morningstar_stock_intersection,2026-09-30
+VOO,UBER,Uber Technologies Inc,Technology,0.21,morningstar_stock_intersection,2026-09-30
+VOO,VRTX,Vertex Pharmaceuticals Inc,Healthcare,0.2,morningstar_stock_intersection,2026-09-30
+VOO,PH,Parker Hannifin Corp,Industrials,0.18,morningstar_stock_intersection,2026-09-30
+VOO,MO,Altria Group Inc,Consumer Defensive,0.17,morningstar_stock_intersection,2026-09-30
+VOO,MPC,Marathon Petroleum Corp,Energy,0.17,morningstar_stock_intersection,2026-09-30
+VOO,VLO,Valero Energy Corp,Energy,0.17,morningstar_stock_intersection,2026-09-30
+VOO,PSX,Phillips 66,Energy,0.16,morningstar_stock_intersection,2026-09-30
+VOO,TT,Trane Technologies PLC Class A,Industrials,0.15,morningstar_stock_intersection,2026-09-30
+VOO,PWR,Quanta Services Inc,Industrials,0.15,morningstar_stock_intersection,2026-09-30
+VOO,SO,Southern Co,Utilities,0.15,morningstar_stock_intersection,2026-09-30
+VOO,HWM,Howmet Aerospace Inc,Industrials,0.14,morningstar_stock_intersection,2026-09-30
+VOO,CDNS,Cadence Design Systems Inc,Technology,0.14,morningstar_stock_intersection,2026-09-30
+VOO,DUK,Duke Energy Corp,Utilities,0.14,morningstar_stock_intersection,2026-09-30
+VOO,EMR,Emerson Electric Co,Industrials,0.13,morningstar_stock_intersection,2026-09-30
+VOO,CSX,CSX Corp,Industrials,0.13,morningstar_stock_intersection,2026-09-30
+VOO,WMB,Williams Companies Inc,Energy,0.13,morningstar_stock_intersection,2026-09-30
+VOO,REGN,Regeneron Pharmaceuticals Inc,Healthcare,0.11,morningstar_stock_intersection,2026-09-30
+VOO,MDLZ,Mondelez International Inc Class A,Consumer Defensive,0.11,morningstar_stock_intersection,2026-09-30
+VOO,EOG,EOG Resources Inc,Energy,0.11,morningstar_stock_intersection,2026-09-30
+VOO,SLB,SLB Ltd,Energy,0.11,morningstar_stock_intersection,2026-09-30
+VOO,MRNA,Moderna Inc,Healthcare,0.11,morningstar_stock_intersection,2026-09-30
+VOO,TGT,Target Corp,Consumer Defensive,0.11,morningstar_stock_intersection,2026-09-30
+VOO,NSC,Norfolk Southern Corp,Industrials,0.11,morningstar_stock_intersection,2026-09-30
+VOO,CL,Colgate-Palmolive Co,Consumer Defensive,0.1,morningstar_stock_intersection,2026-09-30
+VOO,AEP,American Electric Power Co Inc,Utilities,0.1,morningstar_stock_intersection,2026-09-30
+VOO,URI,United Rentals Inc,Industrials,0.09,morningstar_stock_intersection,2026-09-30
+VOO,MNST,Monster Beverage Corp,Consumer Defensive,0.09,morningstar_stock_intersection,2026-09-30
+VOO,KMI,Kinder Morgan Inc Class P,Energy,0.09,morningstar_stock_intersection,2026-09-30
+VOO,TRGP,Targa Resources Corp,Energy,0.09,morningstar_stock_intersection,2026-09-30
+VOO,FAST,Fastenal Co,Industrials,0.09,morningstar_stock_intersection,2026-09-30
+VOO,CRH,CRH PLC,Basic Materials,0.08,morningstar_stock_intersection,2026-09-30
+VOO,D,Dominion Energy Inc,Utilities,0.08,morningstar_stock_intersection,2026-09-30
+VOO,NUE,Nucor Corp,Basic Materials,0.08,morningstar_stock_intersection,2026-09-30
+VOO,SRE,Sempra,Utilities,0.08,morningstar_stock_intersection,2026-09-30
+VOO,ROK,Rockwell Automation Inc,Industrials,0.07,morningstar_stock_intersection,2026-09-30
+VOO,ETR,Entergy Corp,Utilities,0.07,morningstar_stock_intersection,2026-09-30
+VOO,XEL,Xcel Energy Inc,Utilities,0.07,morningstar_stock_intersection,2026-09-30
+VOO,VST,Vistra Corp,Utilities,0.07,morningstar_stock_intersection,2026-09-30
+VOO,EXC,Exelon Corp,Utilities,0.06,morningstar_stock_intersection,2026-09-30
+VOO,KDP,Keurig Dr Pepper Inc,Consumer Defensive,0.06,morningstar_stock_intersection,2026-09-30
+VOO,ED,Consolidated Edison Inc,Utilities,0.06,morningstar_stock_intersection,2026-09-30
+VOO,BIIB,Biogen Inc,Healthcare,0.05,morningstar_stock_intersection,2026-09-30
+VOO,KMB,Kimberly-Clark Corp,Consumer Defensive,0.05,morningstar_stock_intersection,2026-09-30
+XLE,XOM,ExxonMobil Holdings Corp,Energy,24.47,morningstar_stock_intersection,2026-11-09
+XLE,CVX,Chevron Corp,Energy,18.78,morningstar_stock_intersection,2026-11-09
+XLE,REST,Rest of holdings (not listed),,18.07,calculated: 100 - listed,2026-11-09
+XLE,COP,ConocoPhillips,Energy,7.32,morningstar_stock_intersection,2026-11-09
+XLE,PSX,Phillips 66,Energy,4.47,morningstar_stock_intersection,2026-11-09
+XLE,MPC,Marathon Petroleum Corp,Energy,4.42,morningstar_stock_intersection,2026-11-09
+XLE,VLO,Valero Energy Corp,Energy,4.22,morningstar_stock_intersection,2026-11-09
+XLE,EOG,EOG Resources Inc,Energy,4.11,morningstar_stock_intersection,2026-11-09
+XLE,WMB,Williams Companies Inc,Energy,4.04,morningstar_stock_intersection,2026-11-09
+XLE,SLB,SLB Ltd,Energy,3.95,morningstar_stock_intersection,2026-11-09
+XLE,KMI,Kinder Morgan Inc Class P,Energy,3.13,morningstar_stock_intersection,2026-11-09
+XLE,TRGP,Targa Resources Corp,Energy,3.02,morningstar_stock_intersection,2026-11-09
+XLI,REST,Rest of holdings (not listed),,52.47,calculated: 100 - listed,2026-11-09
+XLI,GE,GE Aerospace,Industrials,6.49,morningstar_stock_intersection,2026-11-09
+XLI,CAT,Caterpillar Inc,Industrials,4.97,morningstar_stock_intersection,2026-11-09
+XLI,RTX,RTX Corp,Industrials,4.94,morningstar_stock_intersection,2026-11-09
+XLI,GEV,GE Vernova Inc,Industrials,3.99,morningstar_stock_intersection,2026-11-09
+XLI,UNP,Union Pacific Corp,Industrials,3.33,morningstar_stock_intersection,2026-11-09
+XLI,DE,Deere & Co,Industrials,3.26,morningstar_stock_intersection,2026-11-09
+XLI,UBER,Uber Technologies Inc,Technology,2.71,morningstar_stock_intersection,2026-11-09
+XLI,ETN,Eaton Corp PLC,Industrials,2.57,morningstar_stock_intersection,2026-11-09
+XLI,PH,Parker Hannifin Corp,Industrials,2.24,morningstar_stock_intersection,2026-11-09
+XLI,CSX,CSX Corp,Industrials,1.76,morningstar_stock_intersection,2026-11-09
+XLI,EMR,Emerson Electric Co,Industrials,1.75,morningstar_stock_intersection,2026-11-09
+XLI,TT,Trane Technologies PLC Class A,Industrials,1.71,morningstar_stock_intersection,2026-11-09
+XLI,HWM,Howmet Aerospace Inc,Industrials,1.59,morningstar_stock_intersection,2026-11-09
+XLI,PWR,Quanta Services Inc,Industrials,1.57,morningstar_stock_intersection,2026-11-09
+XLI,NSC,Norfolk Southern Corp,Industrials,1.39,morningstar_stock_intersection,2026-11-09
+XLI,URI,United Rentals Inc,Industrials,1.27,morningstar_stock_intersection,2026-11-09
+XLI,FAST,Fastenal Co,Industrials,1.18,morningstar_stock_intersection,2026-11-09
+XLI,ROK,Rockwell Automation Inc,Industrials,0.81,morningstar_stock_intersection,2026-11-09
+XLP,REST,Rest of holdings (not listed),,25.69,calculated: 100 - listed,
+XLP,WMT,Walmart Inc,Consumer Defensive,11.28,morningstar_stock_intersection,
+XLP,COST,Costco Wholesale Corp,Consumer Defensive,9.42,morningstar_stock_intersection,
+XLP,PG,Procter & Gamble Co,Consumer Defensive,7.75,morningstar_stock_intersection,
+XLP,KO,Coca-Cola Co,Consumer Defensive,7.47,morningstar_stock_intersection,
+XLP,PM,Philip Morris International Inc,Consumer Defensive,6.22,morningstar_stock_intersection,
+XLP,MO,Altria Group Inc,Consumer Defensive,4.56,morningstar_stock_intersection,
+XLP,CL,Colgate-Palmolive Co,Consumer Defensive,4.47,morningstar_stock_intersection,
+XLP,MDLZ,Mondelez International Inc Class A,Consumer Defensive,4.3,morningstar_stock_intersection,
+XLP,PEP,PepsiCo Inc,Consumer Defensive,4.21,morningstar_stock_intersection,
+XLP,TGT,Target Corp,Consumer Defensive,4.09,morningstar_stock_intersection,
+XLP,KMB,Kimberly-Clark Corp,Consumer Defensive,3.86,morningstar_stock_intersection,
+XLP,MNST,Monster Beverage Corp,Consumer Defensive,3.79,morningstar_stock_intersection,
+XLP,KDP,Keurig Dr Pepper Inc,Consumer Defensive,2.89,morningstar_stock_intersection,
+XLU,REST,Rest of holdings (not listed),,35.07,calculated: 100 - listed,2026-11-09
+XLU,NEE,NextEra Energy Inc,Utilities,13.36,morningstar_stock_intersection,2026-11-09
+XLU,SO,Southern Co,Utilities,7.82,morningstar_stock_intersection,2026-11-09
+XLU,DUK,Duke Energy Corp,Utilities,7.34,morningstar_stock_intersection,2026-11-09
+XLU,CEG,Constellation Energy Corp,Utilities,6.07,morningstar_stock_intersection,2026-11-09
+XLU,AEP,American Electric Power Co Inc,Utilities,5.07,morningstar_stock_intersection,2026-11-09
+XLU,D,Dominion Energy Inc,Utilities,4.44,morningstar_stock_intersection,2026-11-09
+XLU,ETR,Entergy Corp,Utilities,3.8,morningstar_stock_intersection,2026-11-09
+XLU,SRE,Sempra,Utilities,3.76,morningstar_stock_intersection,2026-11-09
+XLU,XEL,Xcel Energy Inc,Utilities,3.67,morningstar_stock_intersection,2026-11-09
+XLU,EXC,Exelon Corp,Utilities,3.47,morningstar_stock_intersection,2026-11-09
+XLU,ED,Consolidated Edison Inc,Utilities,3.23,morningstar_stock_intersection,2026-11-09
+XLU,VST,Vistra Corp,Utilities,2.9,morningstar_stock_intersection,2026-11-09
